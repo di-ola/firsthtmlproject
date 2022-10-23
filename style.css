@@ -48,7 +48,7 @@ main{
     width: 60px;
     height: 30px;
     border: 5px solid burlywood;
-    background-color: blue;
+    background-color:white;
     margin: 10px;
     display: inline-block;    
 }
@@ -58,7 +58,7 @@ main{
     width: 60px;
     height: 30px;
     border: 5px solid burlywood;
-    background-color: blue;
+    background-color: white;
 }
 .margin{
     margin-bottom: 20px ;
@@ -73,7 +73,7 @@ margin: 10px;
 width: 60px;
 height: 30px;
 border: 5px solid burlywood;
-background-color: blue;
+background-color: white;
 }
 .contact{
 display:inline-flex;
@@ -81,7 +81,7 @@ margin: 10px;
 width: 60px;
 height: 30px;
 border: 5px solid burlywood;
-background-color: blue;
+background-color: white;
 }
 .about{
     display:inline-flex;
@@ -89,6 +89,6 @@ background-color: blue;
     width: 60px;
     height: 30px;
     border: 5px solid burlywood;
-    background-color: blue;
+    background-color: white;
     }
     
